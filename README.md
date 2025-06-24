@@ -1,11 +1,15 @@
 # Cat Face
 
-Cat Face es un proyecto de demo para mostrar cómo se puede estructurar un proyecto Android utilizando las mejores practicas.
+Cat Face is a demo project to show how to structure an Android project using best practices.
 
 ## Tasks
 
-| Task               | Estado       |
-|--------------------|--------------|
-| Diseño de Mockups  |✅ Completado |
-| Desarrollo Backend | 🚧 En progreso |
-| Testing            |⏳ Pendiente |
+| Task                | State |
+|---------------------|-------|
+| Define Architecture | ⏳     |
+
+| Task        | State |
+|-------------|-------|
+| Completed   | ✅     |
+| In Progress | 🚧    |
+| Pending     | ⏳     |
